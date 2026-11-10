@@ -8,8 +8,9 @@
 <html-lang="en">
 <head> 
 
-<head>
+</head>
  <title> My website </title>
 <body>
   
 </body>
+<html>        
